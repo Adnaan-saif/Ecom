@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "659782c0eceeea74d6d7d795"
+  },
+  "productID": {
+    "$oid": "65884e18b3d952c04b79a442"
+  },
+  "userID": {
+    "$oid": "658983b0a6c62fd8481e7d63"
+  },
+  "color": "green",
+  "qty": "2",
+  "size": "Small",
+  "createdAt": {
+    "$date": "2024-01-05T04:17:04.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-05T04:17:04.645Z"
+  }
+}]

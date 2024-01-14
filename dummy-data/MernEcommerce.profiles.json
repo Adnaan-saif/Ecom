@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "65749d0d36b023a8b6c6ee99"
+  },
+  "userID": {
+    "$oid": "65749b6036b023a8b6c5ea73"
+  },
+  "createdAt": {
+    "$date": "2023-12-09T16:59:56.942Z"
+  },
+  "cus_add": "Dhaka222",
+  "cus_city": "Dhaka",
+  "cus_country": "Dhaka",
+  "cus_fax": "Dhaka",
+  "cus_name": "Dhaka",
+  "cus_phone": "Dhaka",
+  "cus_postcode": "Dhaka",
+  "cus_state": "Dhaka",
+  "ship_add": "Dhaka",
+  "ship_city": "Dhaka",
+  "ship_country": "Dhaka",
+  "ship_name": "Dhaka",
+  "ship_phone": "Dhaka",
+  "ship_postcode": "Dhaka",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2023-12-29T08:37:30.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6589ab91ccebcd16b7a95b82"
+  },
+  "userID": {
+    "$oid": "6588ce09ccebcd16b791d240"
+  },
+  "createdAt": {
+    "$date": "2023-12-25T16:19:30.469Z"
+  },
+  "cus_add": "Rajshahi",
+  "cus_city": "Rajshahi",
+  "cus_country": "Rajshahi",
+  "cus_fax": "Rajshahi",
+  "cus_name": "Dhaka",
+  "cus_phone": "Dhaka",
+  "cus_postcode": "Dhaka",
+  "cus_state": "Dhaka",
+  "ship_add": "Dhaka",
+  "ship_city": "Dhaka",
+  "ship_country": "Dhaka",
+  "ship_name": "Dhaka",
+  "ship_phone": "Dhaka",
+  "ship_postcode": "Dhaka",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2023-12-26T16:24:16.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6591b96accebcd16b78709b6"
+  },
+  "userID": {
+    "$oid": "6591b7ffccebcd16b784fa17"
+  },
+  "createdAt": {
+    "$date": "2023-12-31T18:56:43.745Z"
+  },
+  "cus_add": "Fulbaria Munshipara",
+  "cus_city": "Jamalpur",
+  "cus_country": "Bangladesh",
+  "cus_fax": "089162549",
+  "cus_name": "Mir Raisul Tanvir",
+  "cus_phone": "01722199479",
+  "cus_postcode": "2000",
+  "cus_state": "Dhaka",
+  "ship_add": "Fulbaria Munshipara",
+  "ship_city": "Jamalpur Sadar, Jamalpur",
+  "ship_country": "Bangladesh",
+  "ship_name": "Mir Raisul Tanvir",
+  "ship_phone": "01722199489",
+  "ship_postcode": "2000",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2023-12-31T18:56:43.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6596c6edccebcd16b79f05be"
+  },
+  "userID": {
+    "$oid": "6596c660ccebcd16b79e0aa8"
+  },
+  "createdAt": {
+    "$date": "2024-01-04T14:55:40.694Z"
+  },
+  "cus_add": "Dhaka1 ",
+  "cus_city": "Dhaka1",
+  "cus_country": "Dhaka",
+  "cus_fax": "Dhaka",
+  "cus_name": "Dhaka",
+  "cus_phone": "Dhaka",
+  "cus_postcode": "Dhaka",
+  "cus_state": "Dhaka",
+  "ship_add": "Dhaka",
+  "ship_city": "Dhaka",
+  "ship_country": "Dhaka",
+  "ship_name": "Dhaka",
+  "ship_phone": "Dhaka",
+  "ship_postcode": "Dhaka",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2024-01-04T14:55:40.694Z"
+  }
+}]
